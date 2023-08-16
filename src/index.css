@@ -85,3 +85,11 @@ button {
 /* footer svg {
   margin-right: 20px;
 } */
+
+circle,
+rect,
+line {
+  fill: transparent;
+  stroke-width: 10px;
+  stroke-linecap: round;
+}
