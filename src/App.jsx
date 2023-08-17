@@ -3,6 +3,7 @@ import Animation1 from "./component/Animation1"
 import Hover from './component/Hover';
 import Menu from './component/Menu';
 import SVGLines from './component/SVGLines';
+import ReduxCounter from './component/ReduxCounter';
 
 const App = () => {  
 
@@ -11,7 +12,8 @@ const App = () => {
       {/* <Animation1 /> */}
       {/* <Hover /> */}
       {/* <Menu /> */}
-      <SVGLines />
+      {/* <SVGLines /> */}
+      <ReduxCounter />
     </div>
   )
 }
